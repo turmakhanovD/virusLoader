@@ -1,0 +1,14 @@
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\bin\Debug\AnimationHW.exe.config
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\bin\Debug\AnimationHW.exe
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\bin\Debug\AnimationHW.pdb
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\MainWindow.g.cs
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\App.g.cs
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\AnimationHW_MarkupCompile.cache
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\AnimationHW_MarkupCompile.lref
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\MainWindow.baml
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\AnimationHW.g.resources
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\AnimationHW.Properties.Resources.resources
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\AnimationHW.csproj.GenerateResource.cache
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\AnimationHW.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\AnimationHW.exe
+C:\Users\ТурмаханД\source\repos\AnimationHW\AnimationHW\obj\Debug\AnimationHW.pdb

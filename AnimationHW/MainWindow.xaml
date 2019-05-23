@@ -1,0 +1,17 @@
+﻿<Window x:Class="AnimationHW.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnimationHW"
+        mc:Ignorable="d"
+        Title="Загрузка вируса!" Height="110.331" Width="814.876">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Name ="rectangleOut" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="21" Margin="24,27,0,0" Stroke="Black" VerticalAlignment="Top" Width="760"/>
+        <Rectangle Name="rectangle" Fill="#FF2AAA41" HorizontalAlignment="Left" Height="21" Margin="24,27,0,0" Stroke="#FF28933C" VerticalAlignment="Top" Width="14"/>
+
+    </Grid>
+</Window>
